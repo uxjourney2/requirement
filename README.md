@@ -1,1 +1,33 @@
-# requirement
+# UX Journey<br>
+<b>The process to optimize your resource for the quality User Requirement</b><br><br>
+[![DOI](https://zenodo.org/badge/621137860.svg)](https://zenodo.org/badge/latestdoi/621137860)
+
+
+Several researchers agree that Requirement Engineering (RE) is one of the important factors that is the critical phase of software engineering (SE). Requirements are what the system should do and explain how it should do (Hidellaarachchi et al., 2022). RE activities in traditional Software Development Methods (SDM) are detailed activities and a list of the user requirement before coding or implementation, for the modern SDM like Agile it’s something flexible and iterative (Leau et al., 2012). This modern method focuses on communication between customers and developers. Moreover, in Agile, customer involvement is important, which means the developer's interpersonal and social skills in each iteration. Hence, effective, and efficient products are delivered to the customers and enlighten the development phase. The incremental requirement in the iterative phase of Agile has given dependency issues in design, rigidity, and mobility. The first issue, rigidity means that every change in the requirement implies sequence in the other modules. And for the second issue means the inability of the system to encapsulate components that can be reused. Hence, effective collaboration is very important to conduct effective software products. Moreover, collaboration with the customers with appropriate technical skills, interpersonal skills, and understanding of customer issues that combination of this activity we call socio-technical activity. That’s activity is very important to capture the human aspect in the RE process (Baham & Hirschheim, 2022; Hidellaarachchi et al., 2022; Leau et al., 2012). <br><br>
+To overcome this problem, we provide a solution with a framework called <b>UX Journey</b>. A method that combines the User Experience approach into User Requirements, to get unlimited experience from users. The following image is the flow of the <b>UX Journey</b> framework.<br> 
+![Kerangka Kerja Penelitian-Page-9 (17)](https://user-images.githubusercontent.com/993712/229009784-0f9bf017-2f55-4717-b61b-d2106fbfc56c.svg)
+
+<h2>Start with traditional approach!</h2>
+Elicitation is a crucial activity in the Software Requirement due to the success of the project depends on how the developer defines the user requirement. In this repository, we have a light template and sample for the elicitation process suitable for modern software processes like Agile, Scrum, and XP. The structure of the document is seen in the following picture.<br>
+<img width="403" alt="Screenshot 2023-03-31 at 09 56 33" src="https://user-images.githubusercontent.com/993712/229012113-6877e98c-3dc1-47a1-afac-856ad4c1098f.png">
+Description of the document is describe in this list:<br>
+<ul>
+<li>1. Assessment Process - En.docx: The document assessment process involves a systematic evaluation of software documentation to ensure that it meets the necessary standards and requirements.</li>
+<li>2. Template Elicitation Process - Eng.docx: A document template elicitation process refers to the methodology used to identify and define the requirements for a software development project.</li>
+<li>2. Template Elicitation Process Inspection- Eng.docx: A document template elicitation process inspection involves reviewing and analyzing the document templates used in the software development process including the line number.</li>
+<li>3. Elicitation Sample - Eng.docx: Sample of Template Elicitation Process with the content.</li>
+<li>3. Elicitation Sample Inspection- Eng.docx: Sample of Template Elicitation Process with the content for Inspection purposes.</li>
+<li>4. Project Assessment Rubric (For Instructor)- En.docx: A document used by instructors or teachers to assess the projects submitted by students, the rubric outlines the criteria and standards that will be used to evaluate the project and assign a grade.</li>
+</ul>  
+<h2>Enhance with UX Journey!</h2>
+By integrating user experience and user requirements in software development, various benefits can be obtained that are useful for organizations, end-users, and society in general. Therefore, integrating user experience and user requirements is important and useful in the software development process. The current research was conducted to explore answers to the main research question faced in this research, which is how the individual developer uses a socio-technical skill to understand what the user needs from the perspective of the consumer.
+<h2>We are support for solo/individual/personal development!</h2>
+In the context of exploring software requirements, self-efficacy plays an important role in determining how well an individual can perform a needs assessment. Someone who has high self-efficacy in extracting software requirements will be more confident in identifying and compiling end-user and business needs and ensuring that all requirements are included in the development process. By increasing self-efficacy in identifying software requirements, a person can improve their ability to effectively identify requirements and produce software that meets the needs of end-users and underlying business needs. Moreover, in solo or small software development, individual capacity is important for efficient and effective resource utilization in software development.
+<h2>Cite our paper!</h2>
+<ul>
+<li>A. H. bin J. Wahyu Andhyka Kusuma Rusli bin Abdullah, Novia Admodisastro, Noris binti Mohd Norowi, “User Requirement Validation based on User Experience in Solo Development Environment: Attributes Selection,” presented at the Fusion 2022 Proceedings of the 4th National Symposium on Human-Computer Interaction 2022, 2022, no. myHCI-UX, pp. 60–65.</li>
+<li>W. A. Kusuma, A. H. B. Jantan, R. B. Abdullah, N. I. Admodisastro, and N. B. M. Norowi, “Integrating Good UX Development Practices in Solo Agile,” presented at the 2022 8th International HCI and UX Conference in Indonesia (CHIuXiD), 2022, vol. 1, pp. 47–52.</li>
+<li>W. A. Kusuma, A. H. Jantan, R. bin Abdullah, and N. Admodisastro, “Mapping User Experience Information Overload Problems Across Disciplines,” JOIV: International Journal on Informatics Visualization, vol. 7, no. 1, pp. 22–29, 2023.</li>
+<li>W. A. Kusuma, A. H. Jantan, N. I. Admodisastro, and N. M. Norowi, “Reframed Design Thinking and Feasibility Analysis of UX Journey: Integrating User Experience and User Requirement for Solo Software Development,” 2023.</li>
+<li>W. A. Kusuma, A. H. bin Jantan, R. bin Abdullah, N. I. Admodisastro, E. D. Wahyuni, and S. A. Ni’mah, “Bibliometrics Analysis and Research Profiling to Solve User Experience Overload Information,” Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control, 2022.</li>
+</ul>
