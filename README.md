@@ -35,6 +35,5 @@ In the context of exploring software requirements, self-efficacy plays an import
 <li>W. A. Kusuma, A. Hazri Bin Jantan, N. B. Mohd Norowi and N. Indriaty Admodisastro, "Improving UX Problem Solution through Divergent and Convergent Design Thinking in UX Journey," 2023 11th International Conference on Information and Communication Technology (ICoICT), Melaka, Malaysia, 2023, pp. 68-73, IEEE. https://doi.org/10.1109/ICoICT58202.2023.10262801</li> 
 <li>Kusuma, W. A., Jantan, A. H. B., Abdullah, R. B., Admodisastro, N. I., & Norowi, N. B. M. (2022, November). Integrating Good UX Development Practices in Solo Agile. In 2022 8th International HCI and UX Conference in Indonesia (CHIuXiD) (Vol. 1, pp. 47-52). IEEE. https://doi.org/10.1109/CHIuXiD57244.2022.10009781</li> 
 <li>Wahyu Andhyka Kusuma; Azrul Hazri bin Jantan; Rusli bin Abdullah; Novia Admodisastro; Noris binti Mohd Norowi, Capturing emotion in user requirement through emotion map for solo software developer. 2ND International Conference On Technology, Informatics, And Engineering. 23–24 August 2022, Malang, Indonesia. 2927 (1). https://doi.org/10.1063/5.0195320</li> 
-![image](https://github.com/uxjourney2/requirement/assets/170481071/db727348-891d-4bed-936d-3d513e620ef7)
 </ul>
 
